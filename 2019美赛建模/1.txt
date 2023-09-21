@@ -1,0 +1,11 @@
+the ability of delivering medical packages                            
+
+the ability of exploring roads
+
+portability
+
+
+我们考虑了AC综合排名来选出最适合送药的飞机，考虑BC的排名来选出最适合探路的飞机。使用最佳性能的两架飞机分别完成送药和探路任务。
+
+我们创造性的提出了简化坐标图模型，同心动圆分析模型。使用聚类分析的方法对五家医院分类。创造性的使用简单的几何模型在解决送药问题的前提下，
+尽可能多地覆盖道路。
